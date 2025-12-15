@@ -89,9 +89,9 @@
 **You might consider addressing the following (as applicable):**
 
 * What are some of the limitations of your model?
-  : Trained from a limited data set and drawn from only 1 source, sephora dataset on Kaggle.
+  : Our current models are trained from a limited data set and drawn from only 1 source, the sephora dataset on Kaggle.
 * What would you do differently with more time/resources? : Model Selection, Improve accuracy Scores, finish implementing model for Milestone 3.
-* What additional datasets or techniques would you explore? : Explore using gpt models and datsets from OpenML and MySQL.
+* What additional datasets or techniques would you explore? : Explore using gpt models and datasets from OpenML and MySQL.
 
 ---
 
