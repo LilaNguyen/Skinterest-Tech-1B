@@ -7,7 +7,7 @@
 | Name             | GitHub Handle | Contribution                                                                  |
 |------------------|---------------|-------------------------------------------------------------------------------|
 |Sahana Vijay      |@SahanaVijay19 |   Data Processing, TF-IDF, Model Evaluation.                                                                          |
-|                  | @             |                                                                               |
+|Charlotte Huang   | @charchiveDB  | Data Pre-processing Pipeline, Model Training                                  |
 |                  | @             |                                                                               |
 |                  | @             |                                                                               |
 | Lila Nguyen      | @LilaNguyen   | Exploratory data analysis (EDA), model training and validation, visualization |
@@ -18,10 +18,10 @@
 
 **Example:**
 
-- Developed a machine learning model using `[model type/technique]` to address `[challenge project task]`.
-- Achieved `[key metric or result]`, demonstrating `[value or impact]` for `Skinterest Tech`.
+- Developed a machine learning model using `supervised neural network and an unsupervised k-means clustering model` to address `community engagement driven marketing`.
+- Achieved `93.3% accuracy`, demonstrating `high model power and predictability of community sentiment` for `Skinterest Tech`.
 - Generated actionable marketing insights to inform business decisions at `Skinterest Tech`.
-- Implemented `[specific methodology]` to address industry constraints or expectations.
+- Implemented `weekly meetings with coaches and challenge advisors` to address industry constraints or expectations.
 
 ---
 
@@ -45,6 +45,9 @@
 - Your AI Studio host company and the project objective and scope
 - The real-world significance of the problem and the potential impact of your work
 
+The company that we were partnered with is Skinterest Tech, and their primary interest is developing a data-driven tool to elevate dermatological care by providing inclusive and comprehensive care to every skin type and tone through skin care analysis and guidance. Thus, our project is on analytics for community engagement-driven marketing in order to target specfic communities and curate skin care recommendations. 
+
+
 ---
 
 ## 📊 **Data Exploration**
@@ -55,6 +58,8 @@
 * Data exploration and preprocessing approaches
 * Insights from your Exploratory Data Analysis (EDA)
 * Challenges and assumptions when working with the dataset(s)
+
+Our data is from the Sephora Reviews Data from Kaggle. We used techniques like lemmatization, tokenization, and stop words to convert large text data into its simplest form to remove redundancy. 
 
 **Potential visualizations to include:**
 
