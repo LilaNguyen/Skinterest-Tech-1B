@@ -6,7 +6,7 @@
 
 | Name             | GitHub Handle | Contribution                                                                  |
 |------------------|---------------|-------------------------------------------------------------------------------|
-|                  |@SahanaVijay19 |   Data Processing, TF-IDF, Model Evaluation.                                                                          |
+|Sahana Vijay      |@SahanaVijay19 |   Data Processing, TF-IDF, Model Evaluation.                                                                          |
 |                  | @             |                                                                               |
 |                  | @             |                                                                               |
 |                  | @             |                                                                               |
@@ -89,6 +89,7 @@
 **You might consider addressing the following (as applicable):**
 
 * What are some of the limitations of your model?
+  Trained from a limited data set and drawn from only 1 source, sephora dataset on kaggle.
 * What would you do differently with more time/resources?
 * What additional datasets or techniques would you explore?
 
