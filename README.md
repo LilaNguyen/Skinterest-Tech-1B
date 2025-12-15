@@ -6,7 +6,7 @@
 
 | Name             | GitHub Handle | Contribution                                                                  |
 |------------------|---------------|-------------------------------------------------------------------------------|
-|                  | @             |                                                                               |
+|                  |@SahanaVijay19 |   Data Processing, TF-IDF, Model Evaluation.                                                                          |
 |                  | @             |                                                                               |
 |                  | @             |                                                                               |
 |                  | @             |                                                                               |
