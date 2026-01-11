@@ -8,7 +8,7 @@
 |------------------|---------------|-------------------------------------------------------------------------------|
 |Sahana Vijay      |@SahanaVijay19 |   Data Processing, TF-IDF, Model Evaluation.                                                                          |
 |Charlotte Huang   | @charchiveDB  | Data Pre-processing Pipeline, Model Training                                  |
-|                  | @             |                                                                               |
+|Princess Leus     | @leusp        | Data Preprocessing, Visualizations                                            |
 |                  | @             |                                                                               |
 | Lila Nguyen      | @LilaNguyen   | Exploratory data analysis (EDA), model training and validation, visualization |
 
